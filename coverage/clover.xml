@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1587584778530" clover="3.2.0">
+  <project timestamp="1587584778530" name="All files">
+    <metrics statements="37" coveredstatements="37" conditionals="32" coveredconditionals="32" methods="7" coveredmethods="7" elements="76" coveredelements="76" complexity="0" loc="37" ncloc="37" packages="1" files="1" classes="1"/>
+    <file name="queue.js" path="C:\Users\sief0\Desktop\2ING_2\TestUnitaire\Seance4\queue.js">
+      <metrics statements="37" coveredstatements="37" conditionals="32" coveredconditionals="32" methods="7" coveredmethods="7"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="101" type="cond" truecount="2" falsecount="0"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="100" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="9" count="101" type="cond" truecount="4" falsecount="0"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="12" count="100" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="16" count="4" type="cond" truecount="4" falsecount="0"/>
+      <line num="17" count="1" type="stmt"/>
+      <line num="19" count="3" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="23" count="5" type="cond" truecount="4" falsecount="0"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="26" count="4" type="stmt"/>
+      <line num="29" count="1" type="stmt"/>
+      <line num="30" count="6" type="cond" truecount="4" falsecount="0"/>
+      <line num="31" count="1" type="stmt"/>
+      <line num="33" count="5" type="stmt"/>
+      <line num="36" count="1" type="stmt"/>
+      <line num="37" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="38" count="1" type="stmt"/>
+      <line num="40" count="4" type="cond" truecount="4" falsecount="0"/>
+      <line num="41" count="1" type="stmt"/>
+      <line num="43" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="44" count="2" type="stmt"/>
+      <line num="45" count="2" type="stmt"/>
+      <line num="47" count="1" type="stmt"/>
+      <line num="51" count="1" type="stmt"/>
+      <line num="52" count="3" type="cond" truecount="4" falsecount="0"/>
+      <line num="53" count="1" type="stmt"/>
+      <line num="55" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="56" count="1" type="stmt"/>
+      <line num="57" count="1" type="stmt"/>
+      <line num="59" count="1" type="stmt"/>
+      <line num="63" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
